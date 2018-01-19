@@ -1,0 +1,5 @@
+Help for function:
+?rnom
+args("rnorm")
+
+hacking skills, math and stat knowledge and substantive experitise
